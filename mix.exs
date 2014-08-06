@@ -25,6 +25,6 @@ defmodule Bins.Mixfile do
   #
   # Type `mix help deps` for more examples and options
   defp deps do
-    [{:sh, git: "file:///Users/bjones027/projects/sh"}]
+    [{:sh, git: "https://github.com/brettof86/sh.git"}]
   end
 end

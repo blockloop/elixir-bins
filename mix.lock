@@ -1,1 +1,1 @@
-%{"sh": {:git, "file:///Users/bjones027/projects/sh", "d8d5e9e46ec1ba0bc483c245f316b3843599b05f", []}}
+%{"sh": {:git, "https://github.com/brettof86/sh.git", "57844c9f518668d450ff0b4f4ad0b814636e8a81", []}}

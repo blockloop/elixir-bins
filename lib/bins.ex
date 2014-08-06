@@ -7,6 +7,6 @@ defmodule Bins do
   end
 
   defp get_branch_from_sh(dir) do
-    Sh.git "branch", cwd: dir
+    Sh.git("remote", v: true, dir: dir)
   end
 end
