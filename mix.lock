@@ -1,1 +1,4 @@
-%{"sh": {:git, "https://github.com/brettof86/sh.git", "6f05fe0e0e37cfa8052ce68902b947d778bc1f6a", []}}
+%{"httpotion": {:package, "0.2.4"},
+  "ibrowse": {:git, "git://github.com/cmullaparthi/ibrowse.git", "7871e2ebe8811efb64e1917e2de455fa87e8dfe3", [tag: "v4.1.0"]},
+  "jsx": {:package, "2.0.4"},
+  "sh": {:git, "git://github.com/brettof86/sh.git", "6f05fe0e0e37cfa8052ce68902b947d778bc1f6a", []}}
